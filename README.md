@@ -1,4 +1,4 @@
-#早稲田大学人間情報科学科eB3松井弘道
+#早稲田大学人間情報科学科eB3松井弘道(個人用）
 - 👋 Hi, I’m @HiromichiMatsui
 - 👀 I’m interested in AI system.
 - 🌱 I’m currently learning Linguistic information science @ Kikuchi-Lab Waseda university.
